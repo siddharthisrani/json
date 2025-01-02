@@ -1,0 +1,49 @@
+{
+  "car": [
+    {
+      "carname": "Swift deire",
+      "carprice": "10000",
+      "carcolor": "white",
+      "cartype": "Petrol",
+      "id": "f115"
+    },
+    {
+      "carname": "sidd",
+      "carprice": "666",
+      "carcolor": "green",
+      "cartype": "petrol",
+      "id": "6db1"
+    },
+    {
+      "id": "4be7",
+      "carname": "Siddharth israni",
+      "carprice": "09",
+      "carcolor": "green",
+      "cartype": "petrol"
+    },
+    {
+      "id": "949e",
+      "carname": "Ankit",
+      "carprice": 12,
+      "carcolor": "",
+      "cartype": "petrol",
+      "carcity": 4
+    },
+    {
+      "carname": "sid",
+      "carprice": 787,
+      "carcolor": "green",
+      "cartype": "petrol",
+      "carcity": 2,
+      "id": "96f2"
+    },
+    {
+      "carname": "Ankitt",
+      "carprice": 2,
+      "carcolor": "greenn",
+      "cartype": "petroll",
+      "carcity": 2,
+      "id": "0630"
+    }
+  ]
+}
